@@ -17,6 +17,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .watermelon {
   background-color: #e97065;
 }
@@ -30,16 +34,16 @@ html {
 }
 
 .watermelon h2 {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
   background-color: #e97065;
 }
 
 .starfruit h2 {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
   background-color: #fbd25e;
 }
 
 .persimmon h2 {
-  font-family: 'Comfortaa', cursive;
+  font-family: Comfortaa, cursive;
   background-color: #e86033;
 }
